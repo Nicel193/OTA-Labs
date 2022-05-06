@@ -60,6 +60,8 @@ int main()
     {
         int n;
 
+        cout << "lol";
+
         cin >> n;
 
         if (n > 0 && n < 256)
