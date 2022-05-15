@@ -1,0 +1,7 @@
+Characteristic sequence:
+1 : Value: 8614
+2 : Value: 2418
+3 : Value: 10615
+4 : Value: 24421
+5 : Value: 23751
+6 : Value: 19053
